@@ -1,0 +1,10 @@
+
+************************************
+# @Time    : 2019/1/6 10:21
+# @Author  : Despicable Me
+# @Email   : 
+# @File    : mrMean.py
+# @Software: PyCharm
+# @Explain : 分布式均值方差计算的mrjob实现
+************************************
+
